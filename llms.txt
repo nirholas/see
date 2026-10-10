@@ -1,0 +1,17 @@
+# @three-ws/see
+
+> Let an AI agent SEE a 3D model: render any GLB from several angles and get back frames it can actually look at, plus the geometry facts.
+
+- Repository: https://github.com/nirholas/see
+- Documentation: https://nirholas.github.io/see/
+- npm: https://www.npmjs.com/package/@three-ws/see
+- License: Apache-2.0
+- Part of three.ws: https://three.ws
+
+## Docs
+
+- [README](https://github.com/nirholas/see/blob/main/README.md): install, usage and full API reference
+- [Full text for LLMs](https://nirholas.github.io/see/llms-full.txt): the entire README as plain text
+- [AGENTS.md](https://github.com/nirholas/see/blob/main/AGENTS.md): conventions for coding agents
+- [Security policy](https://github.com/nirholas/see/blob/main/SECURITY.md)
+- [Contributing](https://github.com/nirholas/see/blob/main/CONTRIBUTING.md)

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "@three-ws/see"
+abstract: "Let an AI agent SEE a 3D model: render any GLB from several angles and get back frames it can actually look at, plus the geometry facts."
+type: software
+authors:
+  - name: three.ws contributors
+repository-code: "https://github.com/nirholas/see"
+url: "https://nirholas.github.io/see/"
+license: Apache-2.0
+version: 0.1.0
