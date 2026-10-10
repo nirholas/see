@@ -126,3 +126,30 @@ Apache-2.0.
 ---
 
 Part of [three.ws](https://three.ws), the open-source platform for 3D AI agents. This repository is exported from the [monorepo](https://github.com/nirholas/three.ws/tree/main/packages/see), which is the source of truth: open issues here, and send larger changes there.
+
+<!-- three.ws:growth -->
+## Support the project
+
+If see saves you time, **[star it on GitHub](https://github.com/nirholas/see)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=see%3A%20Let%20an%20AI%20agent%20SEE%20a%203D%20model%3A%20render%20any%20GLB%20from%20several%20angles%20and%20get%20back%20frames%20it%20can&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fsee) · [Share on Bluesky](https://bsky.app/intent/compose?text=see%3A%20Let%20an%20AI%20agent%20SEE%20a%203D%20model%3A%20render%20any%20GLB%20from%20several%20angles%20and%20get%20back%20frames%20it%20can%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fsee) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fsee) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fsee&t=see%3A%20Let%20an%20AI%20agent%20SEE%20a%203D%20model%3A%20render%20any%20GLB%20from%20several%20angles%20and%20get%20back%20frames%20it%20can) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fsee&title=see%3A%20Let%20an%20AI%20agent%20SEE%20a%203D%20model%3A%20render%20any%20GLB%20from%20several%20angles%20and%20get%20back%20frames%20it%20can)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/see` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/see/issues) or [start a discussion](https://github.com/nirholas/see/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/see)](https://github.com/nirholas/see/graphs/contributors)
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/see&type=Date)](https://www.star-history.com/#nirholas/see&Date)
+
+<!-- /three.ws:growth -->
