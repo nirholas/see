@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-see",
+  "version": "0.1.0",
+  "description": "Let an agent look at a 3D model: render a GLB from several angles into images plus geometry stats via the free three.ws look endpoint.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/see",
+  "license": "Apache-2.0",
+  "keywords": [
+    "three-ws",
+    "3d",
+    "glb",
+    "vision",
+    "multimodal",
+    "mcp"
+  ],
+  "homepage": "https://nirholas.github.io/see/"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-see",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Let an agent look at a 3D model: render a GLB from several angles into images plus geometry stats via the free three.ws look endpoint.",
+  "plugins": [
+    {
+      "name": "three-ws-see",
+      "source": "./",
+      "description": "Let an agent look at a 3D model: render a GLB from several angles into images plus geometry stats via the free three.ws look endpoint.",
+      "tags": [
+        "3d",
+        "vision",
+        "mcp"
+      ]
+    }
+  ]
+}
