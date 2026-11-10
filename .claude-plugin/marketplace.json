@@ -1,5 +1,5 @@
 {
-  "name": "three-ws-see",
+  "name": "see",
   "owner": {
     "name": "nirholas"
   },
@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "three-ws-see",
-      "source": "./",
+      "source": "./plugins/three-ws-see",
       "description": "Let an agent look at a 3D model: render a GLB from several angles into images plus geometry stats via the free three.ws look endpoint.",
+      "category": "development",
       "tags": [
         "3d",
         "vision",
