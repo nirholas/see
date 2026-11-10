@@ -6,7 +6,9 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/see",
+  "homepage": "https://nirholas.github.io/see/",
   "license": "Apache-2.0",
+  "privacyPolicyUrl": "https://three.ws/legal/privacy",
   "keywords": [
     "three-ws",
     "3d",
@@ -14,6 +16,5 @@
     "vision",
     "multimodal",
     "mcp"
-  ],
-  "homepage": "https://nirholas.github.io/see/"
+  ]
 }
